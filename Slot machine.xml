@@ -1,0 +1,26 @@
+<gamble>
+    <account crew="yes">
+        <username>server</username>
+        <name>server</name>
+        <password>server</password>
+        <balans>-1</balans>
+        <wins>0</wins>
+        <tegoed>0</tegoed>
+    </account>
+    <account crew="no">
+        <username>test</username>
+        <name>test</name>
+        <password>test</password>
+        <balans>100</balans>
+        <wins>1</wins>
+        <tegoed>0</tegoed>
+    </account>
+    <account crew="no">
+        <username>tikke</username>
+        <name>Tibe De Kort</name>
+        <password>tdk</password>
+        <balans>0</balans>
+        <wins>0</wins>
+        <tegoed>0</tegoed>
+    </account>
+</gamble>
